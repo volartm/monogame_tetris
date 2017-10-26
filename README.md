@@ -1,1 +1,2 @@
-# monogame_tetris
+# Tetris written with use of MonoGame library
+
